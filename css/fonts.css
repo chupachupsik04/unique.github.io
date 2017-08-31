@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "OpenCon";
+	src: url("../fonts/OpenSans-CondLight.eot");
+	src: url("../fonts/OpenSans-CondLight.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/OpenSans-CondLight.woff") format("woff"),
+			 url("../fonts/OpenSans-CondLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "OpenReg";
+	src: url("../fonts/OpenSans-Regular.eot");
+	src: url("../fonts/OpenSans-Regular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/OpenSans-Regular.woff") format("woff"),
+			 url("../fonts/OpenSans-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
